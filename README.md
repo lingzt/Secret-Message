@@ -1,3 +1,3 @@
 # Secret-Message
 
-This is tutoring sample for Shifup boot camp. 
+This is a tutoring sample for Shifup boot camp. 
